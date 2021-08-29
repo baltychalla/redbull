@@ -1,0 +1,180 @@
+commit 94c78b8ff03eaf50501ea6f06675f008ab110d6c
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Sun Aug 29 19:35:08 2021 +0530
+
+    adding last 6 months alpha
+
+commit abc6a96a85dcfe1efda984c11347761cdd300080
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Sun Aug 29 19:17:11 2021 +0530
+
+    adding alpha
+
+commit 7d8f5d7a5704dce6f3fdc7117b571919722800ed
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Sun Aug 29 19:13:17 2021 +0530
+
+    adding file1
+
+commit 61b9055a95827b41b4d50f99612bf3eef8be7908
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Wed Aug 25 13:19:59 2021 +0530
+
+    adding file1
+
+commit 6500313788bd7a551d52f6b6060e164b17cdf901
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Wed Aug 25 13:19:55 2021 +0530
+
+    adding file1
+
+commit 9e083a58d7c4844689f6ae8720c9307f7727ce9e
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Wed Aug 25 13:17:20 2021 +0530
+
+    deleted few lines
+
+commit 895feb76f2c951efa97d7074a32afb1c3045ab58
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Wed Aug 25 13:12:47 2021 +0530
+
+    adding file7
+
+commit 89b794e22f6628e1b0f7fdc69e261003341a556a
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Wed Aug 25 12:37:08 2021 +0530
+
+    Revert "delete file1"
+    
+    This reverts commit 2ea4607611265add2d61d66365fd2e4026b87f1b.
+
+commit 2ea4607611265add2d61d66365fd2e4026b87f1b
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Wed Aug 25 12:35:58 2021 +0530
+
+    delete file1
+
+commit 9abd9762c06d35be8f8795e85cb7d64c566b6aa7
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Wed Aug 25 12:32:02 2021 +0530
+
+    Revert "removing file1 lines"
+    
+    This reverts commit 492de6e011d0c18ad5ad8a2300591a10a3e2cab6.
+
+commit 492de6e011d0c18ad5ad8a2300591a10a3e2cab6
+Author: baltychalla <bharathreddychalla83@gmail.com>
+Date:   Wed Aug 25 12:29:27 2021 +0530
+
+    removing file1 lines
+
+commit 3b90b872a94422d2ce5d244b1546def6b5705ebd
+Author: root <root@pepperfry.com>
+Date:   Fri Aug 20 17:15:37 2021 +0100
+
+    adding file1
+
+commit c415317eea98e867719c35e571cc0d22bf4a2047
+Author: root <root@pepperfry.com>
+Date:   Fri Aug 20 17:05:38 2021 +0100
+
+    adding update file1
+
+commit 7d50d3bc08cb2872ce7f16e4262e8b23062dd874
+Author: root <root@pepperfry.com>
+Date:   Wed Aug 11 16:45:38 2021 +0530
+
+    Revert "adding file2 modify"
+    
+    This reverts commit b1f6b1628d284607fa0e019591ec3118697fad18.
+
+commit b1f6b1628d284607fa0e019591ec3118697fad18
+Author: root <root@pepperfry.com>
+Date:   Wed Aug 11 16:41:42 2021 +0530
+
+    adding file2 modify
+
+commit c1dae9f064efc1f8806aacb6bc7fe0c0fb2003e7
+Author: root <root@pepperfry.com>
+Date:   Wed Aug 11 14:24:06 2021 +0530
+
+    add dir
+
+commit 657ffd42439f2acdcb37f74e60d93a3d9a47d637
+Author: root <root@pepperfry.com>
+Date:   Wed Aug 11 14:02:07 2021 +0530
+
+    add file6
+
+commit fc795150c251407f0e576cc63097915ff0f95b1e
+Author: root <root@pepperfry.com>
+Date:   Wed Aug 11 13:55:20 2021 +0530
+
+    add file6
+
+commit 11940c58c405d126c928aeef901b5a3d730a761b
+Author: root <root@pepperfry.com>
+Date:   Wed Aug 11 13:44:47 2021 +0530
+
+    adding file5
+
+commit 17a27f247c2c96365c2d5c6b5fa129273c0902c8
+Author: root <root@pepperfry.com>
+Date:   Wed Aug 11 13:39:19 2021 +0530
+
+    adding file4
+
+commit 2431bdf74c168a9bd74b04bea5cf91d4f83da7ac
+Author: root <root@pepperfry.com>
+Date:   Wed Aug 11 13:35:56 2021 +0530
+
+    adding gitignore file
+
+commit ffde4c792fc64889b87896a0b2bd04a952a0b792
+Author: root <root@pepperfry.com>
+Date:   Tue Aug 10 15:09:13 2021 +0530
+
+    adding demofile1
+
+commit b845e453875346b2cae549ebe81a8fcda2ea8f76
+Author: root <root@pepperfry.com>
+Date:   Tue Aug 10 14:55:30 2021 +0530
+
+    adding file3 hyd branch
+
+commit e00ae7b898efc39fe5e51d986721e8fc4e332514
+Merge: b40ab05 4da9c53
+Author: root <root@pepperfry.com>
+Date:   Tue Aug 10 14:51:33 2021 +0530
+
+    Merge branch 'main' of https://github.com/baltychalla/redbull into main
+
+commit 4da9c5380287eaf550f17f58e4b7dfaf1bae002b
+Author: baltychalla <88358953+baltychalla@users.noreply.github.com>
+Date:   Tue Aug 10 14:50:37 2021 +0530
+
+    starlink
+
+commit b40ab05e53f1d812849fddfb11fdbde0440dedb3
+Author: root <root@pepperfry.com>
+Date:   Tue Aug 10 14:49:50 2021 +0530
+
+    adding file2
+
+commit 3b707298d20eecf01a7d96cc5fc812f3328cc662
+Author: root <root@pepperfry.com>
+Date:   Tue Aug 10 14:47:34 2021 +0530
+
+    adding file1
+
+commit 91a2b189b78155bcb9e6392040a76649f728587d
+Author: baltychalla <88358953+baltychalla@users.noreply.github.com>
+Date:   Tue Aug 10 14:38:33 2021 +0530
+
+    tesla
+
+commit cc70ff307baba000fedaade66eebd2b40c8e22b8
+Author: baltychalla <88358953+baltychalla@users.noreply.github.com>
+Date:   Tue Aug 10 14:38:08 2021 +0530
+
+    Initial commit
